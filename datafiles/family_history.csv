@@ -1,0 +1,245 @@
+ case_id,case_submitter_id,project_id,relationship_age_at_diagnosis,relationship_gender,relationship_primary_diagnosis,relationship_type,relative_deceased,relative_smoker,relative_with_cancer_history,relatives_with_cancer_history_count
+0198d8e5-a14b-44ee-b1c4-d248994845ad,TCGA-DK-AA74,TCGA-BLCA,'--,'--,Cervical Cancer,Sister,'--,'--,yes,'--
+0198d8e5-a14b-44ee-b1c4-d248994845ad,TCGA-DK-AA74,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+01ee41ef-1894-4408-9e96-a22a1f068190,TCGA-GV-A3JV,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+01ee41ef-1894-4408-9e96-a22a1f068190,TCGA-GV-A3JV,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+03f588d6-832e-47d8-a9c4-af6640a1a635,TCGA-XF-A9SK,TCGA-BLCA,'--,'--,Pancreas Cancer,Father,'--,'--,yes,'--
+03f588d6-832e-47d8-a9c4-af6640a1a635,TCGA-XF-A9SK,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+04477379-6c51-45d9-b9b9-d05d53b53945,TCGA-ZF-AA5H,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+04b9090a-e8ef-4f52-bc52-af90caa84168,TCGA-PQ-A6FI,TCGA-BLCA,'--,'--,Sarcoma,Child,'--,'--,yes,'--
+071b350d-8745-4795-8194-a8c6491f0931,TCGA-DK-AA6X,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+071b350d-8745-4795-8194-a8c6491f0931,TCGA-DK-AA6X,TCGA-BLCA,'--,'--,Multiple Myeloma,Father,'--,'--,yes,'--
+0d2cd56c-09c6-467d-b3aa-1f7fe0cc60e1,TCGA-DK-A6B1,TCGA-BLCA,'--,'--,Gastric Cancer,Grandmother,'--,'--,yes,'--
+0d2cd56c-09c6-467d-b3aa-1f7fe0cc60e1,TCGA-DK-A6B1,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+0da6502c-058d-47f5-9996-8aa1d511d7e4,TCGA-ZF-AA58,TCGA-BLCA,'--,'--,Bladder Cancer,Father,'--,'--,yes,'--
+0fb043d3-d86b-4cd8-8c01-9e2b3e965bb0,TCGA-FD-A3SN,TCGA-BLCA,'--,'--,Cancer,Mother,'--,'--,yes,'--
+0fb043d3-d86b-4cd8-8c01-9e2b3e965bb0,TCGA-FD-A3SN,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+0fb043d3-d86b-4cd8-8c01-9e2b3e965bb0,TCGA-FD-A3SN,TCGA-BLCA,'--,'--,Gastric Cancer,Brother,'--,'--,yes,'--
+104c8e20-1b29-4d77-9633-359a35be48fb,TCGA-DK-AA6U,TCGA-BLCA,'--,'--,Skin Cancer,Sister,'--,'--,yes,'--
+10c825d7-4e21-43e7-ac95-dda75fbdaf74,TCGA-DK-A6B2,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+17ee3278-dc2a-4021-a903-e4ed11e3218b,TCGA-XF-A8HC,TCGA-BLCA,'--,'--,Ovarian Cancer,Mother,'--,'--,yes,'--
+19da59a8-b67a-438d-900a-92a71e03bef3,TCGA-XF-AAMW,TCGA-BLCA,'--,'--,Colorectal Cancer,Father,'--,'--,yes,'--
+19da59a8-b67a-438d-900a-92a71e03bef3,TCGA-XF-AAMW,TCGA-BLCA,'--,'--,Pancreas Cancer,Mother,'--,'--,yes,'--
+1eb0adbf-dbe8-4736-97f6-2dc4ee30e943,TCGA-ZF-A9RG,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+1eb0adbf-dbe8-4736-97f6-2dc4ee30e943,TCGA-ZF-A9RG,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+1ecfdf16-f5e9-4a08-8834-37f4b474179d,TCGA-4Z-AA7M,TCGA-BLCA,'--,'--,Bladder Cancer,Mother,'--,'--,yes,'--
+1ecfdf16-f5e9-4a08-8834-37f4b474179d,TCGA-4Z-AA7M,TCGA-BLCA,'--,'--,Uterine Cancer,Sister,'--,'--,yes,'--
+20ebeff1-e5a7-423a-be93-e7ebb82438ac,TCGA-GU-A764,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+20ebeff1-e5a7-423a-be93-e7ebb82438ac,TCGA-GU-A764,TCGA-BLCA,'--,'--,Colorectal Cancer,Father,'--,'--,yes,'--
+22473ad4-df39-4716-b558-3c1409d5fa0e,TCGA-BT-A0YX,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+22473ad4-df39-4716-b558-3c1409d5fa0e,TCGA-BT-A0YX,TCGA-BLCA,'--,'--,Colorectal Cancer,Sister,'--,'--,yes,'--
+22dbea93-3e1b-4e1b-ba40-55f08b99e73b,TCGA-DK-AA71,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+22dbea93-3e1b-4e1b-ba40-55f08b99e73b,TCGA-DK-AA71,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+234086dd-5a74-4ff1-94ab-bad43ee69d5c,TCGA-DK-A2I2,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+24ad2168-b25a-4de8-a021-dfe1c74fcc6e,TCGA-XF-AAN3,TCGA-BLCA,'--,'--,Gastric Cancer,Father,'--,'--,yes,'--
+24d56331-4bca-4ab8-9fb7-a95a30b4c8fe,TCGA-ZF-AA5P,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+28e25ffb-8b0c-4839-a735-ed7b78e3213a,TCGA-G2-A2EC,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+2a142731-119c-495d-ad30-eb0b48bacb46,TCGA-G2-A2EF,TCGA-BLCA,'--,'--,Prostate Cancer,Grandfather,'--,'--,yes,'--
+3071cb51-dcf5-41f7-b047-afc2dcbf0aaf,TCGA-FD-A3SQ,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+3071cb51-dcf5-41f7-b047-afc2dcbf0aaf,TCGA-FD-A3SQ,TCGA-BLCA,'--,'--,Bladder Cancer,Mother,'--,'--,yes,'--
+3071cb51-dcf5-41f7-b047-afc2dcbf0aaf,TCGA-FD-A3SQ,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+30c7445e-d0c4-4a0f-96a4-27e4259ee10b,TCGA-G2-A2EL,TCGA-BLCA,'--,'--,Head and Neck Cancer,Father,'--,'--,yes,'--
+33bc6a7c-9844-41e3-96b3-1e34bb3fedd5,TCGA-GV-A3QH,TCGA-BLCA,'--,'--,Bladder Cancer,Grandfather,'--,'--,yes,'--
+33bc6a7c-9844-41e3-96b3-1e34bb3fedd5,TCGA-GV-A3QH,TCGA-BLCA,'--,'--,Kidney Cancer,Sister,'--,'--,yes,'--
+36c14e9d-1863-4c55-bbbb-f8c9dd418932,TCGA-DK-A1AC,TCGA-BLCA,'--,'--,Kidney Cancer,Brother,'--,'--,yes,'--
+386f51e4-d03a-4606-bf2e-6168f2122c5f,TCGA-ZF-A9RL,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+386f51e4-d03a-4606-bf2e-6168f2122c5f,TCGA-ZF-A9RL,TCGA-BLCA,'--,'--,CNS Cancer,Sister,'--,'--,yes,'--
+386f51e4-d03a-4606-bf2e-6168f2122c5f,TCGA-ZF-A9RL,TCGA-BLCA,'--,'--,Gastric Cancer,Brother,'--,'--,yes,'--
+390a29fe-2cfd-43c4-a247-69e692763e17,TCGA-XF-AAMG,TCGA-BLCA,'--,'--,Lymphoma,Father,'--,'--,yes,'--
+39fdc742-8bdb-4e77-b20b-0f967a75e659,TCGA-LC-A66R,TCGA-BLCA,'--,'--,Ovarian Cancer,Sister,'--,'--,yes,'--
+39fdc742-8bdb-4e77-b20b-0f967a75e659,TCGA-LC-A66R,TCGA-BLCA,'--,'--,Gastric Cancer,Mother,'--,'--,yes,'--
+3b16881a-88c2-4048-b78f-e3e183503f70,TCGA-GU-AATP,TCGA-BLCA,'--,'--,Colorectal Cancer,Father,'--,'--,yes,'--
+3b16881a-88c2-4048-b78f-e3e183503f70,TCGA-GU-AATP,TCGA-BLCA,'--,'--,Lymphoma,Mother,'--,'--,yes,'--
+3cccffea-bd7d-4548-bb38-fe5eda630de6,TCGA-FD-A43N,TCGA-BLCA,'--,'--,Liver Cancer,Sister,'--,'--,yes,'--
+3cccffea-bd7d-4548-bb38-fe5eda630de6,TCGA-FD-A43N,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+3ed614e7-f356-4d87-985b-d3bbbae3bb40,TCGA-DK-A1A7,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+3ed614e7-f356-4d87-985b-d3bbbae3bb40,TCGA-DK-A1A7,TCGA-BLCA,'--,'--,Lymphoma,Brother,'--,'--,yes,'--
+40551d53-388b-4067-9341-76e94d023703,TCGA-DK-A3X2,TCGA-BLCA,'--,'--,Kidney Cancer,Brother,'--,'--,yes,'--
+40551d53-388b-4067-9341-76e94d023703,TCGA-DK-A3X2,TCGA-BLCA,'--,'--,Ovarian Cancer,Sister,'--,'--,yes,'--
+40551d53-388b-4067-9341-76e94d023703,TCGA-DK-A3X2,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+4107ae6f-502c-4bdc-bf14-e4b3711cba38,TCGA-E5-A2PC,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+41b59716-116f-4942-8b63-409870a87e26,TCGA-DK-A3IM,TCGA-BLCA,'--,'--,Leukemia,Child,'--,'--,yes,'--
+4570b6e2-d430-41ca-aab1-ce4d14c36463,TCGA-FD-A3SL,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+4570b6e2-d430-41ca-aab1-ce4d14c36463,TCGA-FD-A3SL,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+462d5a6b-9f39-4aae-a35b-d06a7811d053,TCGA-FD-A3B5,TCGA-BLCA,'--,'--,Cancer,Sister,'--,'--,yes,'--
+462d5a6b-9f39-4aae-a35b-d06a7811d053,TCGA-FD-A3B5,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+474582f2-8dec-4fbc-803f-4fd9ba2e0957,TCGA-FD-A3SM,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+493a4ff2-37a5-4b79-928d-83dbfe534556,TCGA-DK-A1AE,TCGA-BLCA,'--,'--,Bladder Cancer,Sister,'--,'--,yes,'--
+49ea6676-ae27-4ca0-a7b3-48423d606d48,TCGA-4Z-AA7Y,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+49ea6676-ae27-4ca0-a7b3-48423d606d48,TCGA-4Z-AA7Y,TCGA-BLCA,'--,'--,Leukemia,Brother,'--,'--,yes,'--
+4a9ef220-922c-49cf-bbed-d173b214ed31,TCGA-CU-A0YO,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+4b5d873b-bfda-482e-92a0-bf84c0f9032a,TCGA-FD-A3B3,TCGA-BLCA,'--,'--,Colorectal Cancer,Sister,'--,'--,yes,'--
+4d323b18-ce5a-4516-862d-7ed1fdf1f008,TCGA-GC-A3YS,TCGA-BLCA,'--,'--,Bladder Cancer,Mother,'--,'--,yes,'--
+4d323b18-ce5a-4516-862d-7ed1fdf1f008,TCGA-GC-A3YS,TCGA-BLCA,'--,'--,Ovarian Cancer,Grandmother,'--,'--,yes,'--
+4d323b18-ce5a-4516-862d-7ed1fdf1f008,TCGA-GC-A3YS,TCGA-BLCA,'--,'--,Adrenal Gland Cancer,Father,'--,'--,yes,'--
+51fdb034-5d05-427b-b6b8-b6eecd65d976,TCGA-XF-A9SL,TCGA-BLCA,'--,'--,Multiple Myeloma,Father,'--,'--,yes,'--
+5378f375-aa04-4eca-bc35-190b3efb52bc,TCGA-XF-AAN1,TCGA-BLCA,'--,'--,Gastric Cancer,Child,'--,'--,yes,'--
+556fcbc8-172a-4af1-8822-ae036e8d68e8,TCGA-BL-A13J,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+56d8a1b8-1268-4362-a7f1-77b76fbf1b59,TCGA-DK-A1AA,TCGA-BLCA,'--,'--,Rectal Cancer,Sister,'--,'--,yes,'--
+56d8a1b8-1268-4362-a7f1-77b76fbf1b59,TCGA-DK-A1AA,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+56d8a1b8-1268-4362-a7f1-77b76fbf1b59,TCGA-DK-A1AA,TCGA-BLCA,'--,'--,Melanoma,Child,'--,'--,yes,'--
+56d8a1b8-1268-4362-a7f1-77b76fbf1b59,TCGA-DK-A1AA,TCGA-BLCA,'--,'--,Lung Cancer,Child,'--,'--,yes,'--
+56d8a1b8-1268-4362-a7f1-77b76fbf1b59,TCGA-DK-A1AA,TCGA-BLCA,'--,'--,Colorectal Cancer,Grandfather,'--,'--,yes,'--
+573e124f-98cb-4014-b9d2-0499f7fbdb7a,TCGA-UY-A78N,TCGA-BLCA,'--,'--,Cancer,Father,'--,'--,yes,'--
+573e124f-98cb-4014-b9d2-0499f7fbdb7a,TCGA-UY-A78N,TCGA-BLCA,'--,'--,Gastric Cancer,Brother,'--,'--,yes,'--
+5c4aebeb-fb6f-4d66-b24a-89ef20de971e,TCGA-DK-A2I4,TCGA-BLCA,'--,'--,CNS Cancer,Mother,'--,'--,yes,'--
+5d06cc19-8b10-4ed1-b6d4-8e044f1f8a8c,TCGA-E7-A5KF,TCGA-BLCA,'--,'--,Bladder Cancer,Father,'--,'--,yes,'--
+5d54c742-5a8e-4c40-8d62-95e75e210ab8,TCGA-GD-A2C5,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+5da1cb68-c438-4ddc-999f-90aed0c4bd7a,TCGA-G2-A2EK,TCGA-BLCA,'--,'--,Skin Cancer,Mother,'--,'--,yes,'--
+5f5c1775-a908-483d-8a77-b902c5b7570e,TCGA-XF-A9T0,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+5f99dcff-d809-4c87-8024-c9b30bd565e9,TCGA-FD-A3SP,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+5f99dcff-d809-4c87-8024-c9b30bd565e9,TCGA-FD-A3SP,TCGA-BLCA,'--,'--,Unknown,Father,'--,'--,yes,'--
+60419f8c-92c2-4e8f-b2fa-a767d30c9d59,TCGA-DK-AA6Q,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+604c0d60-6ba9-4d2f-98db-e310c58bc8ca,TCGA-4Z-AA89,TCGA-BLCA,'--,'--,Rectal Cancer,Brother,'--,'--,yes,'--
+604c0d60-6ba9-4d2f-98db-e310c58bc8ca,TCGA-4Z-AA89,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+63fa8434-4a6f-4c32-9c5d-89dcc913900b,TCGA-DK-AA6W,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+63fa8434-4a6f-4c32-9c5d-89dcc913900b,TCGA-DK-AA6W,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+63fa8434-4a6f-4c32-9c5d-89dcc913900b,TCGA-DK-AA6W,TCGA-BLCA,'--,'--,Leukemia,Mother,'--,'--,yes,'--
+661967e5-94b3-4f98-9402-6ab137893c16,TCGA-YF-AA3L,TCGA-BLCA,'--,'--,Gynecologic Cancer,Sister,'--,'--,yes,'--
+661967e5-94b3-4f98-9402-6ab137893c16,TCGA-YF-AA3L,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+691adaa9-196a-4b62-9437-640c4ae6e2b2,TCGA-HQ-A2OF,TCGA-BLCA,'--,'--,Gastric Cancer,Grandmother,'--,'--,yes,'--
+6bddafde-7004-49b6-80cf-8081cd4b7d44,TCGA-DK-A3X1,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+6ee03f14-14ac-4cb9-bd23-b69704176301,TCGA-YC-A9TC,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+6ee18b9a-3f45-491f-9535-502820cfcf46,TCGA-XF-A9T6,TCGA-BLCA,'--,'--,Pancreas Cancer,Brother,'--,'--,yes,'--
+6ee18b9a-3f45-491f-9535-502820cfcf46,TCGA-XF-A9T6,TCGA-BLCA,'--,'--,Cancer,Sister,'--,'--,yes,'--
+73bc18a4-3600-409e-a2b5-e09e2b3f040d,TCGA-DK-A6B0,TCGA-BLCA,'--,'--,Unknown,Father,'--,'--,yes,'--
+73bc18a4-3600-409e-a2b5-e09e2b3f040d,TCGA-DK-A6B0,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+76388364-eb01-4b16-a2b9-0b6c05b4b386,TCGA-XF-A9SP,TCGA-BLCA,'--,'--,CNS Cancer,Sister,'--,'--,yes,'--
+76388364-eb01-4b16-a2b9-0b6c05b4b386,TCGA-XF-A9SP,TCGA-BLCA,'--,'--,Esophageal Cancer,Mother,'--,'--,yes,'--
+797a71ee-372d-41e5-aeee-5ab3c4661110,TCGA-BT-A2LA,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+797a71ee-372d-41e5-aeee-5ab3c4661110,TCGA-BT-A2LA,TCGA-BLCA,'--,'--,Melanoma,Father,'--,'--,yes,'--
+79f23a0e-5aae-4618-8191-7dd7c0552408,TCGA-GV-A3QG,TCGA-BLCA,'--,'--,Head and Neck Cancer,Brother,'--,'--,yes,'--
+79f23a0e-5aae-4618-8191-7dd7c0552408,TCGA-GV-A3QG,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+7a7fcdd3-cce9-47cf-a26f-cc6ff34ecd9a,TCGA-CU-A5W6,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+7d71945a-b81a-405c-bb17-cec9b1d7592c,TCGA-ZF-A9RM,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+811b3950-36e7-485f-bc48-aca1eee2ddef,TCGA-CU-A0YR,TCGA-BLCA,'--,'--,Bladder Cancer,Brother,'--,'--,yes,'--
+811b3950-36e7-485f-bc48-aca1eee2ddef,TCGA-CU-A0YR,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+841b4582-a268-4a55-a9a2-47c7e5c3b69f,TCGA-XF-A8HE,TCGA-BLCA,'--,'--,Ovarian Cancer,Mother,'--,'--,yes,'--
+8573e114-ac20-4113-a942-01f2d1562a7b,TCGA-XF-A8HF,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+88a521ce-a5e9-4c6f-83d4-ec36a62fedb6,TCGA-DK-A1AD,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+88a521ce-a5e9-4c6f-83d4-ec36a62fedb6,TCGA-DK-A1AD,TCGA-BLCA,'--,'--,Bladder Cancer,Sister,'--,'--,yes,'--
+88a521ce-a5e9-4c6f-83d4-ec36a62fedb6,TCGA-DK-A1AD,TCGA-BLCA,'--,'--,Esophageal Cancer,Brother,'--,'--,yes,'--
+899f8d52-4c3a-4371-90eb-1f106001eddc,TCGA-FD-A3B4,TCGA-BLCA,'--,'--,Breast Cancer,Not Reported,'--,'--,yes,'--
+899f8d52-4c3a-4371-90eb-1f106001eddc,TCGA-FD-A3B4,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+899f8d52-4c3a-4371-90eb-1f106001eddc,TCGA-FD-A3B4,TCGA-BLCA,'--,'--,Head and Neck Cancer,Father,'--,'--,yes,'--
+899f8d52-4c3a-4371-90eb-1f106001eddc,TCGA-FD-A3B4,TCGA-BLCA,'--,'--,Leukemia,Mother,'--,'--,yes,'--
+8a83f744-8469-41ef-a4cd-e983f849383f,TCGA-XF-A9SY,TCGA-BLCA,'--,'--,Cancer,Mother,'--,'--,yes,'--
+8c1dd7f7-b74a-4fa2-b6a7-86f0348d2567,TCGA-FD-A3N6,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+8da76432-3004-47e5-a474-bd94bd4c0b33,TCGA-FD-A5BY,TCGA-BLCA,'--,'--,Pancreas Cancer,Mother,'--,'--,yes,'--
+8da76432-3004-47e5-a474-bd94bd4c0b33,TCGA-FD-A5BY,TCGA-BLCA,'--,'--,Leukemia,Brother,'--,'--,yes,'--
+904a8757-e0c5-41ef-b583-c8f170caaac1,TCGA-DK-A1A5,TCGA-BLCA,'--,'--,Melanoma,Sister,'--,'--,yes,'--
+90bf49b7-6710-4665-82df-30ecc22c59a3,TCGA-XF-A8HB,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+92c6856a-b26f-4512-bbb1-8a8aff4636ab,TCGA-ZF-AA53,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+92c6856a-b26f-4512-bbb1-8a8aff4636ab,TCGA-ZF-AA53,TCGA-BLCA,'--,'--,CNS Cancer,Sister,'--,'--,yes,'--
+92c6856a-b26f-4512-bbb1-8a8aff4636ab,TCGA-ZF-AA53,TCGA-BLCA,'--,'--,CNS Cancer,Brother,'--,'--,yes,'--
+93fbe302-a2e0-4cf4-a638-312786f547c2,TCGA-XF-AAMF,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+94809fbf-4895-42c0-a7c6-f39ee1a41f1a,TCGA-FD-A3SO,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+980c7214-f708-4499-818d-f3de87dc6de7,TCGA-FD-A5BU,TCGA-BLCA,'--,'--,Ovarian Cancer,Mother,'--,'--,yes,'--
+987e8157-fbea-40f3-aa01-0092d6cceb97,TCGA-XF-AAN2,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+9883c38f-87bf-4421-bfc0-1b1001f8159c,TCGA-G2-AA3F,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+98b9ad62-76ed-43e3-91bc-b8f065d79673,TCGA-G2-A2EO,TCGA-BLCA,'--,'--,Adrenal Gland Cancer,Not Reported,'--,'--,yes,'--
+98b9ad62-76ed-43e3-91bc-b8f065d79673,TCGA-G2-A2EO,TCGA-BLCA,'--,'--,Liver Cancer,Mother,'--,'--,yes,'--
+9aa6522a-120a-4691-993e-3f8534f644b5,TCGA-K4-A3WU,TCGA-BLCA,'--,'--,Cancer,Sister,'--,'--,yes,'--
+9aa6522a-120a-4691-993e-3f8534f644b5,TCGA-K4-A3WU,TCGA-BLCA,'--,'--,Bladder Cancer,Brother,'--,'--,yes,'--
+9c274536-3ca1-4f0e-93a8-1688074d862f,TCGA-DK-A1A6,TCGA-BLCA,'--,'--,Liver Cancer,Mother,'--,'--,yes,'--
+9c46846e-7f66-4936-af97-50a7b8189d84,TCGA-GU-A42Q,TCGA-BLCA,'--,'--,Leukemia,Brother,'--,'--,yes,'--
+9c46846e-7f66-4936-af97-50a7b8189d84,TCGA-GU-A42Q,TCGA-BLCA,'--,'--,Kidney Cancer,Father,'--,'--,yes,'--
+9d2b19eb-bd61-490e-982b-fadf2c4aadf7,TCGA-XF-AAMY,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+9d2b19eb-bd61-490e-982b-fadf2c4aadf7,TCGA-XF-AAMY,TCGA-BLCA,'--,'--,Ovarian Cancer,Mother,'--,'--,yes,'--
+9dd97821-7afd-4982-8b1d-f14f845b79f7,TCGA-BT-A2LD,TCGA-BLCA,'--,'--,Liver Cancer,Mother,'--,'--,yes,'--
+9ee8e704-c61d-413d-b69d-257ef829fdae,TCGA-GV-A3QK,TCGA-BLCA,'--,'--,Gastric Cancer,Mother,'--,'--,yes,'--
+a648d9bf-cf37-41fc-9515-e8f5ac85fcd4,TCGA-XF-A9SX,TCGA-BLCA,'--,'--,Esophageal Cancer,Father,'--,'--,yes,'--
+a658becf-3934-49f2-9e74-291dca61d4bb,TCGA-FD-A3N5,TCGA-BLCA,'--,'--,Lung Cancer,Sister,'--,'--,yes,'--
+aa6b44ab-14b1-4b5d-8679-ba958b546afa,TCGA-XF-A9T2,TCGA-BLCA,'--,'--,Cancer,Grandmother,'--,'--,yes,'--
+aaa55de1-8f53-4b56-ba0a-67cff909cf81,TCGA-ZF-A9R5,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+aadcf26b-c398-489f-a86a-e8db1b5db456,TCGA-GD-A6C6,TCGA-BLCA,'--,'--,Colorectal Cancer,Father,'--,'--,yes,'--
+aadcf26b-c398-489f-a86a-e8db1b5db456,TCGA-GD-A6C6,TCGA-BLCA,'--,'--,Colorectal Cancer,Sister,'--,'--,yes,'--
+aadcf26b-c398-489f-a86a-e8db1b5db456,TCGA-GD-A6C6,TCGA-BLCA,'--,'--,Unknown,Sister,'--,'--,yes,'--
+ab6580e4-5de9-4361-b06a-1d20e5571890,TCGA-DK-A6B6,TCGA-BLCA,'--,'--,CNS Cancer,Sister,'--,'--,yes,'--
+ab6580e4-5de9-4361-b06a-1d20e5571890,TCGA-DK-A6B6,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+acf6bdf3-6349-49dc-b99a-4eda648eeac5,TCGA-GC-A6I3,TCGA-BLCA,'--,'--,Cancer,Grandfather,'--,'--,yes,'--
+ada95115-275f-4229-aa00-f298a5ff931c,TCGA-XF-AAMT,TCGA-BLCA,'--,'--,Leukemia,Child,'--,'--,yes,'--
+ae080e88-82da-480c-bd13-ae214da0463c,TCGA-CU-A72E,TCGA-BLCA,'--,'--,Head and Neck Cancer,Mother,'--,'--,yes,'--
+ae080e88-82da-480c-bd13-ae214da0463c,TCGA-CU-A72E,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+b319798a-3f35-4902-8ecf-5be529d99312,TCGA-XF-A9SJ,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+b36e3b5f-8904-4722-adae-b00812efec65,TCGA-ZF-AA4R,TCGA-BLCA,'--,'--,Testicular Cancer,Brother,'--,'--,yes,'--
+b36e3b5f-8904-4722-adae-b00812efec65,TCGA-ZF-AA4R,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+b41df0b0-572e-4ddb-9f1d-1b69dd1ad290,TCGA-DK-A6AV,TCGA-BLCA,'--,'--,Colorectal Cancer,Brother,'--,'--,yes,'--
+b6c36037-56b1-4957-8df8-fda72b0d3c39,TCGA-XF-AAN4,TCGA-BLCA,'--,'--,Pancreas Cancer,Father,'--,'--,yes,'--
+b9b61cf9-8711-4c3a-8511-659070cfe36b,TCGA-XF-A8HG,TCGA-BLCA,'--,'--,Lymphoma,Child,'--,'--,yes,'--
+b9b61cf9-8711-4c3a-8511-659070cfe36b,TCGA-XF-A8HG,TCGA-BLCA,'--,'--,Kidney Cancer,Mother,'--,'--,yes,'--
+b9b61cf9-8711-4c3a-8511-659070cfe36b,TCGA-XF-A8HG,TCGA-BLCA,'--,'--,Bladder Cancer,Father,'--,'--,yes,'--
+c04cc413-95b0-4b56-af55-9596a5ead4a6,TCGA-G2-AA3C,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+c65ba2b8-e867-42e8-bbd0-c2cdf5130cfb,TCGA-G2-A3IE,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+c728fac9-5452-4759-a4ed-a366e0f757cb,TCGA-DK-A2HX,TCGA-BLCA,'--,'--,Breast Cancer,Child,'--,'--,yes,'--
+c8388ac0-975d-4f1e-8324-8cabdc75738d,TCGA-XF-AAME,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+ca6403dd-3bd5-4023-8ea1-9957ec44dba5,TCGA-E5-A4TZ,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+ca6403dd-3bd5-4023-8ea1-9957ec44dba5,TCGA-E5-A4TZ,TCGA-BLCA,'--,'--,Liver Cancer,Father,'--,'--,yes,'--
+ccd65bc8-82ef-453e-b4bc-a005cc2262d5,TCGA-ZF-AA4V,TCGA-BLCA,'--,'--,Breast Cancer,Child,'--,'--,yes,'--
+ccd65bc8-82ef-453e-b4bc-a005cc2262d5,TCGA-ZF-AA4V,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+ce4e4549-befc-447f-9b79-ed46e302e6d7,TCGA-ZF-A9R7,TCGA-BLCA,'--,'--,Uterine Cancer,Mother,'--,'--,yes,'--
+cea28eac-4442-4436-b737-536e45b89989,TCGA-DK-AA75,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+cea28eac-4442-4436-b737-536e45b89989,TCGA-DK-AA75,TCGA-BLCA,'--,'--,Lung Cancer,Sister,'--,'--,yes,'--
+cea28eac-4442-4436-b737-536e45b89989,TCGA-DK-AA75,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+cea28eac-4442-4436-b737-536e45b89989,TCGA-DK-AA75,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+cede5274-279d-4021-8aca-5ecc4bf94d66,TCGA-H4-A2HQ,TCGA-BLCA,'--,'--,Cervical Cancer,Mother,'--,'--,yes,'--
+d17a5ab1-3789-4652-aff5-d8f4f2291f9c,TCGA-BT-A2LB,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+d2f329b3-5b44-414b-bccd-7b2d1345d21e,TCGA-MV-A51V,TCGA-BLCA,'--,'--,Gastric Cancer,Grandfather,'--,'--,yes,'--
+d349fae0-dd40-4292-908c-ac86a9938240,TCGA-FD-A43Y,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+d5e8d936-40ae-4fd3-b40e-cac54763d71f,TCGA-DK-A6B5,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+d5e8d936-40ae-4fd3-b40e-cac54763d71f,TCGA-DK-A6B5,TCGA-BLCA,'--,'--,Pancreas Cancer,Grandfather,'--,'--,yes,'--
+d63c186d-add6-492e-8250-e83f46d39d00,TCGA-DK-A3WX,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+d63c186d-add6-492e-8250-e83f46d39d00,TCGA-DK-A3WX,TCGA-BLCA,'--,'--,Uterine Cancer,Mother,'--,'--,yes,'--
+d63c186d-add6-492e-8250-e83f46d39d00,TCGA-DK-A3WX,TCGA-BLCA,'--,'--,Lung Cancer,Not Reported,'--,'--,yes,'--
+d63c186d-add6-492e-8250-e83f46d39d00,TCGA-DK-A3WX,TCGA-BLCA,'--,'--,Bladder Cancer,Not Reported,'--,'--,yes,'--
+d8b07fdd-5580-4bcc-9619-b5e0c9f0aa3d,TCGA-DK-AA6M,TCGA-BLCA,'--,'--,Lung Cancer,Father,'--,'--,yes,'--
+db52c68a-ed44-4ec4-9381-d75f9bcbc29a,TCGA-GC-A3WC,TCGA-BLCA,'--,'--,Gallbladder Cancer,Mother,'--,'--,yes,'--
+db52c68a-ed44-4ec4-9381-d75f9bcbc29a,TCGA-GC-A3WC,TCGA-BLCA,'--,'--,Multiple Myeloma,Brother,'--,'--,yes,'--
+db52c68a-ed44-4ec4-9381-d75f9bcbc29a,TCGA-GC-A3WC,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+dc321b92-7275-48c9-adeb-7670db3195ef,TCGA-XF-A9SZ,TCGA-BLCA,'--,'--,Cancer,Father,'--,'--,yes,'--
+dc321b92-7275-48c9-adeb-7670db3195ef,TCGA-XF-A9SZ,TCGA-BLCA,'--,'--,Leukemia,Sister,'--,'--,yes,'--
+de810af0-4c18-4e8f-9836-f8abc425e3eb,TCGA-DK-A2I6,TCGA-BLCA,'--,'--,Colorectal Cancer,Brother,'--,'--,yes,'--
+de810af0-4c18-4e8f-9836-f8abc425e3eb,TCGA-DK-A2I6,TCGA-BLCA,'--,'--,Lung Cancer,Sister,'--,'--,yes,'--
+de810af0-4c18-4e8f-9836-f8abc425e3eb,TCGA-DK-A2I6,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+e1540865-69c2-4b60-a78e-97d0ce2957dc,TCGA-G2-AA3D,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+e44f60ec-66c4-45a2-a003-0a1faf1d6e03,TCGA-DK-A3IQ,TCGA-BLCA,'--,'--,Colorectal Cancer,Father,'--,'--,yes,'--
+e44f60ec-66c4-45a2-a003-0a1faf1d6e03,TCGA-DK-A3IQ,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+e44f60ec-66c4-45a2-a003-0a1faf1d6e03,TCGA-DK-A3IQ,TCGA-BLCA,'--,'--,Kidney Cancer,Brother,'--,'--,yes,'--
+e44f60ec-66c4-45a2-a003-0a1faf1d6e03,TCGA-DK-A3IQ,TCGA-BLCA,'--,'--,Breast Cancer,Mother,'--,'--,yes,'--
+e44f60ec-66c4-45a2-a003-0a1faf1d6e03,TCGA-DK-A3IQ,TCGA-BLCA,'--,'--,Multiple Myeloma,Brother,'--,'--,yes,'--
+e6f7bf6c-92b1-4795-94fc-b189d0c7877f,TCGA-ZF-AA4X,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+e7680a8e-1c0e-426b-abd8-d0d8e7d0e5aa,TCGA-GU-A766,TCGA-BLCA,'--,'--,Prostate Cancer,Grandfather,'--,'--,yes,'--
+e7680a8e-1c0e-426b-abd8-d0d8e7d0e5aa,TCGA-GU-A766,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+e7680a8e-1c0e-426b-abd8-d0d8e7d0e5aa,TCGA-GU-A766,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+e7e95597-ef88-4442-8c01-8d633822e7b5,TCGA-XF-AAN0,TCGA-BLCA,'--,'--,Lung Cancer,Mother,'--,'--,yes,'--
+eb30ae33-2076-475d-aac9-804a8f1119a0,TCGA-ZF-AA56,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+eb30ae33-2076-475d-aac9-804a8f1119a0,TCGA-ZF-AA56,TCGA-BLCA,'--,'--,Colorectal Cancer,Mother,'--,'--,yes,'--
+eb4f8c76-08d9-4ba4-846e-969fded63a87,TCGA-DK-AA77,TCGA-BLCA,'--,'--,Multiple Myeloma,Father,'--,'--,yes,'--
+ec7fc492-53cc-4b71-a66a-1cef1adeba33,TCGA-LT-A5Z6,TCGA-BLCA,'--,'--,Head and Neck Cancer,Mother,'--,'--,yes,'--
+ec7fc492-53cc-4b71-a66a-1cef1adeba33,TCGA-LT-A5Z6,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+f027d254-ec01-4882-a8a7-964ae90b7d49,TCGA-DK-A1AB,TCGA-BLCA,'--,'--,Pancreas Cancer,Father,'--,'--,yes,'--
+f027d254-ec01-4882-a8a7-964ae90b7d49,TCGA-DK-A1AB,TCGA-BLCA,'--,'--,Liver Cancer,Mother,'--,'--,yes,'--
+f093f043-efd4-4cba-a87f-8cbb5c1acd9e,TCGA-DK-A3IU,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+f093f043-efd4-4cba-a87f-8cbb5c1acd9e,TCGA-DK-A3IU,TCGA-BLCA,'--,'--,Leukemia,Mother,'--,'--,yes,'--
+f3104468-bf17-434b-8a7e-bc3b253121ea,TCGA-DK-A1AF,TCGA-BLCA,'--,'--,Liver Cancer,Brother,'--,'--,yes,'--
+f3104468-bf17-434b-8a7e-bc3b253121ea,TCGA-DK-A1AF,TCGA-BLCA,'--,'--,Liver Cancer,Brother,'--,'--,yes,'--
+f5e03536-26e1-480d-a7bb-010eb8210cd6,TCGA-XF-A9SW,TCGA-BLCA,'--,'--,Pancreas Cancer,Sister,'--,'--,yes,'--
+f5e03536-26e1-480d-a7bb-010eb8210cd6,TCGA-XF-A9SW,TCGA-BLCA,'--,'--,Breast Cancer,Child,'--,'--,yes,'--
+f5e03536-26e1-480d-a7bb-010eb8210cd6,TCGA-XF-A9SW,TCGA-BLCA,'--,'--,Prostate Cancer,Father,'--,'--,yes,'--
+f5e03536-26e1-480d-a7bb-010eb8210cd6,TCGA-XF-A9SW,TCGA-BLCA,'--,'--,Lung Cancer,Brother,'--,'--,yes,'--
+f5e03536-26e1-480d-a7bb-010eb8210cd6,TCGA-XF-A9SW,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+f5e03536-26e1-480d-a7bb-010eb8210cd6,TCGA-XF-A9SW,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+f632bc31-3aa0-4783-b10b-818ecb26d40b,TCGA-GU-A763,TCGA-BLCA,'--,'--,Ovarian Cancer,Child,'--,'--,yes,'--
+f78cb4fa-5548-40f8-b71b-663dde47f539,TCGA-ZF-AA5N,TCGA-BLCA,'--,'--,Ovarian Cancer,Mother,'--,'--,yes,'--
+f78cb4fa-5548-40f8-b71b-663dde47f539,TCGA-ZF-AA5N,TCGA-BLCA,'--,'--,Lung Cancer,Grandmother,'--,'--,yes,'--
+f8c0a69c-df53-4a0a-a30e-4424c0ce3dd5,TCGA-DK-A1AG,TCGA-BLCA,'--,'--,Bladder Cancer,Brother,'--,'--,yes,'--
+f8c0a69c-df53-4a0a-a30e-4424c0ce3dd5,TCGA-DK-A1AG,TCGA-BLCA,'--,'--,Bladder Cancer,Sister,'--,'--,yes,'--
+f953dc5d-58bf-4936-b9fe-74b45e8c00e5,TCGA-DK-A3IV,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+f953dc5d-58bf-4936-b9fe-74b45e8c00e5,TCGA-DK-A3IV,TCGA-BLCA,'--,'--,Lung Cancer,Sister,'--,'--,yes,'--
+f9a7ab94-70df-4194-8102-66021d01dadd,TCGA-XF-A9T5,TCGA-BLCA,'--,'--,Prostate Cancer,Brother,'--,'--,yes,'--
+fa05f7f6-50e9-4878-a834-f655c0877394,TCGA-ZF-A9RF,TCGA-BLCA,'--,'--,Breast Cancer,Sister,'--,'--,yes,'--
+fae38579-5fe2-4d81-9729-39fde866d18c,TCGA-FJ-A3ZF,TCGA-BLCA,'--,'--,Lung Cancer,Sister,'--,'--,yes,'--
+fc0032db-b6d8-4da3-bd1b-beec4196abf0,TCGA-DK-A3IN,TCGA-BLCA,'--,'--,Cancer,Brother,'--,'--,yes,'--
+fc0032db-b6d8-4da3-bd1b-beec4196abf0,TCGA-DK-A3IN,TCGA-BLCA,'--,'--,Colorectal Cancer,Brother,'--,'--,yes,'--
+ff5b9238-38a7-42b4-9d44-3b8ec9913f6d,TCGA-GU-A42P,TCGA-BLCA,'--,'--,Cervical Cancer,Sister,'--,'--,yes,'--
+ffafcbfd-0eb3-4e14-acd0-4407b641a4a5,TCGA-4Z-AA7Q,TCGA-BLCA,'--,'--,Gallbladder Cancer,Mother,'--,'--,yes,'--
